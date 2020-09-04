@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbrascher&show_icons=true&hide_border=true&count_private=true&show_icons=true&layout=compact)
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbrascher&show_icons=true&theme=nord&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbrascher&show_icons=true&theme=default&include_all_commits=true)
 
 <!-- &include_all_commits=true -->
 
