@@ -1,17 +1,8 @@
 <!-- 
-### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <!--👋 -->
-
-<!-- 
-:cloud: Apache CloudStack Committer & PMC
--->
-
-<!-- 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [1]: www.linkedin.com/in/gabriel-beims-bräsche
 -->
-💬 I am currently on vacation. Get back soon, at 21st September.
-<!--
-**GabrielBrascher/gabrielbrascher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **GabrielBrascher/gabrielbrascher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
